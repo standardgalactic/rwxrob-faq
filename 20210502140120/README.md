@@ -5,6 +5,6 @@ The `ix` command from <http://ix.io> is the best terminal-centric
 well as a [ix shell script][ix] that makes using it a bit easier and
 writes to the clipboard with `xclip`.
 
-[vid]: <https://www.youtube.com/c/rwxrob/search?query=ix>
+[vid]: <https://www.youtube.com/watch?v=CNSDWX40gsk>
 [ix]: <https://github.com/rwxrob/dotfiles/blob/master/scripts/ix>
 
