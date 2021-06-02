@@ -1,4 +1,4 @@
-# How do you get large color font on terminal?
+# How do you get large color font title on terminal?
 
 All the fonts that I use are in a separate [repo].com/rwxrob/fonts). The
 figlet fonts I've collected over the years are all under `figlet`. I
